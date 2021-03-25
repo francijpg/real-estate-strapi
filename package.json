@@ -9,8 +9,8 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
+    "immer": "^7.0.15",
     "knex": "<0.20.0",
     "mysql": "latest",
     "strapi": "3.2.3",
